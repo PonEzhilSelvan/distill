@@ -4,6 +4,7 @@
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
 ---
+#docFixes
 
 ## What It Does
 
