@@ -1,5 +1,4 @@
-# Distill — Pure knowledge, every class
-
+# Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
@@ -631,7 +630,7 @@ This is a testing line
 ## License
 =======
 
-MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 
 
 Trying to add some doc
