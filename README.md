@@ -333,7 +333,8 @@ make dev   # starts backend + frontend together
 
 ## Setup — Cloud LLM (OpenAI / Anthropic / Gemini)
 
-No local server needed. Just set the API key and update `config.yaml`.
+
+No local server needed. Just set the API key and update `config.yaml`
 
 ### OpenAI
 
